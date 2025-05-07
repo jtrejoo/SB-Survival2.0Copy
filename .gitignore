@@ -9,3 +9,4 @@ data/bd.sizeclass.txt
 data/bd.state.txt
 data/bd.data.1.AllItems.txt
 processed/filtered_bds_data.csv
+processed\aggregated_bds_data.csv
